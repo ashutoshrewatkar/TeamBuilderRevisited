@@ -1,7 +1,10 @@
 # TeamBuilderRevisited
 This is a sample app for booking a vacation with team bulding functionality.
 
-#Basic Flow of Events
+## This project is created using
+Microsoft Visual Studio Community 2019. Version 9.1
+
+## Basic Flow of Events
 ```
 •	Each client sales order is compiled by the front of house sales team one event at a time. The client chooses an event and location, when the staff member enters these details into the app the price for the selections made is automatically displayed on the interface. If the client wishes to choose a meal option, this is inputted, and the total event price will again update automatically. The prices charged for each meal plan are as before. (see pricing for events/locations and event/meals in Appendix). 
 •	After feedback from clients, every participant now receives a printed certificate free of charge.
@@ -10,7 +13,7 @@ This is a sample app for booking a vacation with team bulding functionality.
 •	[Note: If at any point the customer wishes to cancel their order or change their order, the clear button is pressed, and the form is reset so the order can be re-entered, or another customer order taken]
 •	Once the clients sales order has been taken in full, the employee presses the complete order button, after which an order summary in the form of a formatted message box (or other form as desired) is displayed with a transaction number, the quantity, event, location, meal plans and price for each event booked, along with a total cost of the sales order.
 ```
-#Additional Functionality
+## Additional Functionality
 ```
 • When the exit button is pressed at the end of the day’s trading, all the orders from that day are to be saved to text file for financial purposes. Each trading day has its own unique transaction text file. The closing stock of event places is also written out to file, so this data can be used as the opening stock for the following days trading. 
 • When/ as requested a suitability formatted management report of available event places will be saved to file.
